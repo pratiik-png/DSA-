@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pratiik-png/DSA-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pratiik-png/DSA-/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/pratiik-png/DSA-/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/pratiik-png/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratiik-png/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pratiik-png/DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pratiik-png/DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/pratiik-png/DSA-/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/pratiik-png/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/pratiik-png/DSA-/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/pratiik-png/DSA-/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratiik-png/DSA-/tree/master/0977-squares-of-a-sorted-array) |
@@ -58,8 +60,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pratiik-png/DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pratiik-png/DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/pratiik-png/DSA-/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/pratiik-png/DSA-/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/pratiik-png/DSA-/tree/master/0202-happy-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pratiik-png/DSA-/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pratiik-png/DSA-/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pratiik-png/DSA-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
