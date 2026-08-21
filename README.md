@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pratiik-png/DSA-/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/pratiik-png/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratiik-png/DSA-/tree/master/0977-squares-of-a-sorted-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pratiik-png/DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pratiik-png/DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pratiik-png/DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/pratiik-png/DSA-/tree/master/0202-happy-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pratiik-png/DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/pratiik-png/DSA-/tree/master/0143-reorder-list) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pratiik-png/DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
