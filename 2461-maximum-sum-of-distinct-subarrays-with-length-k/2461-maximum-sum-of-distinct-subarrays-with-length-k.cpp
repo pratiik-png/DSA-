@@ -1,0 +1,39 @@
+class Solution {
+public:
+    long long maximumSubarraySum(vector<int>& nums, int k) {
+
+        int n = nums.size();
+
+        long long result=0;
+        long long currWindowSum =0;
+
+        unordered_set<int> st;
+        
+        int i=0;
+        int j=0;
+
+        while(j<n){
+            // checking if nums of j is already present in current window nums[i...j]
+
+            while(st.count(nums[j])){
+                currWindowSum -= nums[i];
+                st.erase(nums[i]);
+                i++;
+
+            }
+
+            currWindowSum += nums[j];
+            st.insert(nums[j]);
+
+            if(j-i+1 ==k){
+                result =max(result,currWindowSum);
+
+                currWindowSum -= nums[i];
+                st.erase(nums[i]);
+                i++;
+            }
+            j++;
+        }
+        return result;
+    }
+};
