@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/pratiik-png/DSA-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pratiik-png/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pratiik-png/DSA-/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pratiik-png/DSA-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/pratiik-png/DSA-/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pratiik-png/DSA-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pratiik-png/DSA-/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pratiik-png/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/pratiik-png/DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pratiik-png/DSA-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/pratiik-png/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pratiik-png/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/pratiik-png/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pratiik-png/DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pratiik-png/DSA-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/pratiik-png/DSA-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/pratiik-png/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pratiik-png/DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/pratiik-png/DSA-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pratiik-png/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pratiik-png/DSA-/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pratiik-png/DSA-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pratiik-png/DSA-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/pratiik-png/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
@@ -148,9 +152,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pratiik-png/DSA-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pratiik-png/DSA-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pratiik-png/DSA-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pratiik-png/DSA-/tree/master/0918-maximum-sum-circular-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pratiik-png/DSA-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
