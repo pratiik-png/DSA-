@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/pratiik-png/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/pratiik-png/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/pratiik-png/DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0327-count-of-range-sum](https://github.com/pratiik-png/DSA-/tree/master/0327-count-of-range-sum) |
 | [0525-contiguous-array](https://github.com/pratiik-png/DSA-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pratiik-png/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pratiik-png/DSA-/tree/master/0724-find-pivot-index) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pratiik-png/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/pratiik-png/DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0327-count-of-range-sum](https://github.com/pratiik-png/DSA-/tree/master/0327-count-of-range-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pratiik-png/DSA-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/pratiik-png/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pratiik-png/DSA-/tree/master/0053-maximum-subarray) |
+| [0327-count-of-range-sum](https://github.com/pratiik-png/DSA-/tree/master/0327-count-of-range-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pratiik-png/DSA-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -163,4 +166,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pratiik-png/DSA-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/pratiik-png/DSA-/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/pratiik-png/DSA-/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/pratiik-png/DSA-/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/pratiik-png/DSA-/tree/master/0327-count-of-range-sum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/pratiik-png/DSA-/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
